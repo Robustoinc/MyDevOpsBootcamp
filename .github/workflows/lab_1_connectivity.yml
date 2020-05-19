@@ -1,5 +1,4 @@
-
-  push:
+push:
     branches:
       - master
     paths:
